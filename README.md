@@ -16,7 +16,7 @@
    <img src="images/Screen Shot 2021-11-15 at 6.34.49 AM.png">
 5. Choose **Devices** in the top left corner of the window, then **Wiimote** along the left column.<br>
    <img src="images/Screen Shot 2021-11-15 at 6.34.58 AM.png">
-6. Locate your Wii remote. Assuming batteries have already been installed, turn the Wii remote over and press the sync button on the battery cover. One or more lights will begin blinking on the front of the remote to indicate that the pairing process has begun.<br>
+6. Locate your Wii remote. Assuming batteries have already been installed, turn the Wii remote over and press the sync button on the battery cover. Between one and four lights will flash on the remote, depending on the batteries’ capacity. Your Wii is now in Bluetooth pairing mode.<br>
 7. Make sure Bluetooth is enabled on your computer. Click the **Pair a Wiimote** button in the right area, to the right of **Setup**. A sequence of hex-based, dash-separated numbers should appear under **Address**. (This is the MAC address of the Wii remote. Think of it as its serial number.) Highlight the MAC address by clicking it.<br>
    <img src="images/Screen Shot 2021-11-15 at 6.37.31 AM.png">
 8. To the right of **Settings** in the same window listed under the previous step, check off **Attitude Angles (pitch, roll, yaw)**, then, on the bottom, check off **Send Battery Level**. (Ignore that it’s unchecked in the screen shot above.)<br>
